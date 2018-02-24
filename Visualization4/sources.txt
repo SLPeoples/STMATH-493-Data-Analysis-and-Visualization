@@ -1,0 +1,4 @@
+Sources:
+
+https://simplemaps.com/data/us-cities
+https://www.kaggle.com/jboysen/us-perm-visas/downloads/us_perm_visas.csv
